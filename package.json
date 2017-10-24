@@ -1,7 +1,6 @@
 {
   "name": "prz",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.0.0",
   "license": "MIT",
   "dependencies": {
     "reveal.js": "^3.5.0"
